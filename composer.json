@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/onesignal",
+    "name": "tagmood/onesignal",
     "description": "OneSignal Notifications driver",
     "homepage": "https://github.com/laravel-notification-channels/onesignal",
     "license": "MIT",
